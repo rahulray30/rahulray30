@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, nodeJs, Blockchain Technology
 - 🌱 I’m currently learning Solidity, Hyperledger Fabric 
 - 💞️ I’m looking to collaborate on Blockchain apps
-- 📫 How to reach me rahulray30
+- 📫 How to reach me email- rayrahul.2011@gmail.com
 
 <!---
 rahulray30/rahulray30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
