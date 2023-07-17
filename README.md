@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rahulray30
-- 👀 I’m interested in JavaScript, nodeJs, Blockchain Technology
-- 🌱 I’m currently learning Solidity, Hyperledger Fabric 
+- 👋 Hi, I’m Rahul ray
+- 👀 I am  a BlockChain Developer
 - 💞️ I’m looking to collaborate on Blockchain apps
 - 📫 How to reach me- rayrahul.2011@gmail.com
 
