@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul ray
+- 👋 Hi, I’m Rahul Ray
 - 👀 I am  a BlockChain Developer
 - 💞️ I’m looking to collaborate on Blockchain apps
 - 📫 How to reach me- rayrahul.2011@gmail.com
