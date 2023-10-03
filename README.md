@@ -8,6 +8,9 @@
 
 - 📫 How to reach me - rayrahul.2011@gmail.com
 
+- Linkedin - www.linkedin.com/in/rahul-ray-ab9b20a0
+
+
 <!---
 rahulray30/rahulray30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
