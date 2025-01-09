@@ -4,7 +4,7 @@
 
 - 👀 I am a BlockChain Developer with skillset in Solidity, JavaScript, NodeJS.
 
-- 💞️ I’m looking to collaborate on Blockchain apps. I have worked on multiple Defi & NFT Projects like Staking, Dex, Spot & Future Trading, Derivatives, NFT Marketplaces.....
+- 💞️ I’m looking to collaborate on Blockchain apps. I have worked on multiple Defi & NFT Projects like Asset Tokenization, RWA, BTC Staking, Dex, Spot & Future Trading, Derivatives, NFT Marketplaces.....
 
 - 📫 How to reach me - rayrahul.2011@gmail.com
 
