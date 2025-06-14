@@ -2,7 +2,7 @@
 
 - I’m Rahul Ray
 
-- 👀 I am a BlockChain Developer with skillset in Solidity, JavaScript, NodeJS.
+- 👀 I am a BlockChain Developer with skillset in Solidity, Rust, JavaScript, NodeJS.
 
 - 💞️ I’m looking to collaborate on Blockchain apps. I have worked on multiple Defi & NFT Projects like Asset Tokenization, RWA, BTC Staking, Dex, Spot & Future Trading, Derivatives, NFT Marketplaces.....
 
